@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.371de926.css",
+    "main.js": "/static/js/main.a1599819.js",
+    "static/js/787.73abd0a9.chunk.js": "/static/js/787.73abd0a9.chunk.js",
+    "static/media/kitkat.jpg": "/static/media/kitkat.2e36f3655c4458beab75.jpg",
+    "static/media/dog_cover.png": "/static/media/dog_cover.acd9e8fbe8e002cc02c2.png",
+    "static/media/terrarium.png": "/static/media/terrarium.b5f918db0b88dd56de8f.png",
+    "static/media/rat.png": "/static/media/rat.ee3096783fe208ce1021.png",
+    "static/media/felix1.jpg": "/static/media/felix1.33c1884d5491f1f14839.jpg",
+    "static/media/RoyalChain.jpg": "/static/media/RoyalChain.a41f54d622d8cad21cb1.jpg",
+    "static/media/cat.png": "/static/media/cat.b3b7f92f9964ff9f6f7f.png",
+    "static/media/grandmix.jpg": "/static/media/grandmix.d318e2b67b10235c682d.jpg",
+    "static/media/liz.png": "/static/media/liz.5140cd31910a68f52f53.png",
+    "static/media/about_1.png": "/static/media/about_1.fbc93534b5f2d2e4ae5c.png",
+    "static/media/dog.png": "/static/media/dog.cdcba2a2d6e9996d595f.png",
+    "static/media/about_2.png": "/static/media/about_2.bc06bc7055cb780685a7.png",
+    "static/media/filter.jpg": "/static/media/filter.ea772f88d26ca5437193.jpg",
+    "static/media/pop.png": "/static/media/pop.0b253fe0b76014b72c69.png",
+    "static/media/Wiskas.jpg": "/static/media/Wiskas.650aca57cea489171832.jpg",
+    "static/media/homedog.jpg": "/static/media/homedog.04237f7bca847e73497e.jpg",
+    "static/media/toyrats.jpg": "/static/media/toyrats.18c6d47d4b6e4d0a4ca8.jpg",
+    "static/media/fis.png": "/static/media/fis.d278c6d05a892dba17b9.png",
+    "static/media/image 3.png": "/static/media/image 3.2263e11b50d6c2cb8321.png",
+    "static/media/about_3.png": "/static/media/about_3.45c05cd197469b8e5ff5.png",
+    "static/media/bcCikle.png": "/static/media/bcCikle.b62a03be0ad66eed3c51.png",
+    "static/media/image 2.png": "/static/media/image 2.f26c152eb99bd6713844.png",
+    "static/media/logo.png": "/static/media/logo.ccd067851ebb4e98aee6.png",
+    "static/media/image 1.png": "/static/media/image 1.fa4a5481c8c35ddc6a46.png",
+    "static/media/image 5.png": "/static/media/image 5.b31c4391f70ec3ac5c5e.png",
+    "static/media/image 6.png": "/static/media/image 6.8b283b779a3627e78aad.png",
+    "static/media/image 4.png": "/static/media/image 4.e4c1c08317d0886a0e75.png",
+    "index.html": "/index.html",
+    "main.371de926.css.map": "/static/css/main.371de926.css.map",
+    "main.a1599819.js.map": "/static/js/main.a1599819.js.map",
+    "787.73abd0a9.chunk.js.map": "/static/js/787.73abd0a9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.371de926.css",
+    "static/js/main.a1599819.js"
+  ]
+}
